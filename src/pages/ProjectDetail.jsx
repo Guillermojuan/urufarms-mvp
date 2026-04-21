@@ -444,7 +444,7 @@ function AnalysisTab() {
 
       {/* Chart 1 — Bar: Apples to Apples */}
       <ChartCard
-        title="Comparación Peras con Peras™"
+        title="Comparación™"
         subtitle="Precio unitario por rubro (USD) — 3 contratistas vs. referencia de mercado"
       >
         <ResponsiveContainer width="100%" height={280}>

@@ -59,7 +59,7 @@ export default function Login() {
             Inteligencia de costos para obras que definen el skyline uruguayo.
           </p>
           <p style={{ fontSize: "14px", color: "rgba(255,255,255,0.6)", lineHeight: 1.6 }}>
-            Normalización automática de ofertas · Benchmark Uruguay · Análisis Peras con Peras™
+            Normalización automática de ofertas · Benchmark Uruguay · Análisis™
           </p>
         </div>
 
